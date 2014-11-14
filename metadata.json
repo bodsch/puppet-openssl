@@ -1,0 +1,14 @@
+{
+  "name": "bodsch-openssl",
+  "version": "1.0.0",
+  "author": "bodsch",
+  "summary": "Manages SSL Certs",
+  "license": "GPLv3",
+  "source": "https://github.com/bodsch/puppet-openssl",
+  "project_page": "(https://github.com/bodsch/puppet-openssl)",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "debian",
+  ],
+  "dependencies": []
+}
